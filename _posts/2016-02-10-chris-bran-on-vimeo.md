@@ -28,8 +28,8 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/channels/chrisbran'
 title: Chris Bran on Vimeo
-datePublished: '2016-02-10T09:35:10.536Z'
-dateModified: '2016-02-10T03:18:54.134Z'
+datePublished: '2016-02-10T20:45:16.250Z'
+dateModified: '2016-02-10T03:18:57.993Z'
 sourcePath: _posts/2016-02-10-chris-bran-on-vimeo.md
 published: true
 inFeed: true
