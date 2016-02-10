@@ -1,6 +1,6 @@
 name: chrisbran
 favicon: null
-layout_spectrum: 0.25904
+layout_spectrum: 0.49255
 typography_spectrum: 0.4996
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.08422757196240127
+  brandStrength: 0.5
   lightness: 0.8593127538915724
   saturation: 0.988733425969258
   rhythmicContrast: 0.18876085337251425
